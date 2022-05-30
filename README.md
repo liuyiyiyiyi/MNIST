@@ -1,0 +1,1 @@
+该算法为手写数字识别，按照mnist_recognition.ipynb进行即可，在执行mnist_recognition.ipynb时，应选择conda_pytorch_python的环境
